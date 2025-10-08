@@ -1,4 +1,4 @@
-# 🧩 beecrowd-solutions-python
+# beecrowd-solutions-python
 
 This repository contains the solutions for several problems from the algorithmic programming platform **beecrowd (URI)**.
 
@@ -6,17 +6,17 @@ The main goal of this project is to document and track my progress in applying p
 
 ---
 
-## 🎯 Project Status and Goals
+## Project Status and Goals
 
 | Category | Goal | Current Progress (Example) |
 | :--- | :--- | :--- |
 | **Phase** | **Beginner (1000 - 1050)** | Solved: 3/50 (1000, 1001, 1002, ...) |
-| **Focus** | Input/Output, Variables, and Data Types | ✅ Completed. |
-| **Next Phase** | Conditional Structures (`if/else`) | 🛠️ In Progress (Start date: Tomorrow). |
+| **Focus** | Input/Output, Variables, and Data Types | Completed. |
+| **Next Phase** | Conditional Structures (`if/else`) | In Progress (Start date: Tomorrow). |
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The problems are organized by difficulty or theme to facilitate navigation.
 
@@ -30,17 +30,17 @@ The problems are organized by difficulty or theme to facilitate navigation.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 -   **Language:** Python 3
 -   **Tools:** VS Code, Git
 -   **Platform:** beecrowd
 
-## 👤 Connect
+## Connect
 
 This project is part of my Computer Science development journey. Feel free to connect!
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Your LinkedIn Profile] |
-| **Email** | [Your Professional Email (vitorpp10@gmail.com)] |
+| **LinkedIn** | [https://www.linkedin.com/in/vitor-de-padua/] |
+| **Email** | [vitorpp10@gmail.com] |
