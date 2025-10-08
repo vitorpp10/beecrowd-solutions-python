@@ -16,8 +16,8 @@ The main goal of this project is to document and track my progress in applying p
 | Category | Goal | Current Progress |
 |-----------|------|------------------|
 | **Phase** | Beginner (1000 - 1050) | Solved: 3/50 (1000, 1001, 1002, …) |
-| **Focus** | Input/Output, Variables, and Data Types | ✅ Completed |
-| **Next Phase** | Conditional Structures (`if/else`) | 🚀 Starting tomorrow |
+| **Focus** | Input/Output, Variables, and Data Types | Completed |
+| **Next Phase** | Conditional Structures (`if/else`) | Starting tomorrow |
 
 ---
 
@@ -46,7 +46,7 @@ Copiar código
 
 ---
 
-## 🔗 Connect
+## Connect
 
 This project is part of my **Computer Science development journey**.  
 Feel free to connect with me!  
