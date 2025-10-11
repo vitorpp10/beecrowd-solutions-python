@@ -1,4 +1,4 @@
-# Beecrowd - My Python Problem-Solving Journey 🚀
+# Beecrowd - My Python Problem-Solving Journey 
 
 This repository contains my solutions for various problems from the **beecrowd** algorithmic programming platform (formerly URI Online Judge).
 
