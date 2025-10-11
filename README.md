@@ -45,4 +45,5 @@ This project is part of my Computer Science development journey. Feel free to co
 | Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/vitor-de-padua/] |
-| **Email** | [vitorpp10@gmail.com] |
+| **Email** | [vitordepadua003@gmail.com] |
+| **Beecrowd Profile | [https://judge.beecrowd.com/en/profile/1188964] |
