@@ -10,9 +10,10 @@ The main goal of this project is to document and track my progress in applying p
 
 | Category | Goal | Current Progress (Example) |
 | :--- | :--- | :--- |
-| **Phase** | Beginner (1000 - 1050) | Solved: 3/50 (1000, 1001, 1002, ...) |
+| **Phase** | Beginner (1000 - 1050) | Solved: 23/50 (1000, 1001, 1002, ...) |
 | **Focus** | Input/Output, Variables, and Data Types | Completed. |
-| **Next Phase** | Conditional Structures (if/else) | In Progress (Start date: Tomorrow). |
+| **Focus** | Conditional Structures (if/else) | Completed. |
+| **Next Phase** | Loops (while/for) | In Progress (Start date: Monday). |
 
 ---
 
@@ -25,7 +26,11 @@ The problems are organized by difficulty or theme to facilitate navigation.
     * `1001_simple_sum.py`
     * `1002_area_of_circle.py`
     * `...`
-* `\conditional-structures` (To be filled)
+* `\conditional-structures`
+    * `1035_Selection_Test_1.py`
+    * `1036_Bhaskara_Formula.py`
+    * `1037_Interval.py`
+    * `...`
 * `\mathematics` (To be filled)
 
 ---
