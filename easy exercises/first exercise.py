@@ -11,4 +11,3 @@ print('Idade:', idade)
 print('Ano Nascimento:', ano_nascimento)
 print('Maior de idade?', maior_idade)
 print('Altura:', altura_metros)
-

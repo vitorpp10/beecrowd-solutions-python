@@ -63,3 +63,5 @@ elif tamanho >= 5 and tamanho <= 6:
     print('Nome normal, ', f'{nome} tem ', len(nome), ' caracteres. ')
 else:
     print('Seu nome é muito grande, ', f'{nome} tem ', len(nome), ' caracteres. ')
+
+
