@@ -5,9 +5,9 @@ empates = 0
 
 while True:
     inter, gremio = map(int, input().split())
-
-    total_grenal = total_grenal + 1
     
+    total_grenal = total_grenal + 1
+
     if inter > gremio:
         inter_cont = inter_cont + 1
     elif gremio > inter:
