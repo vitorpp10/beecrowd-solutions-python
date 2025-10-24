@@ -345,3 +345,4 @@ m = duration % 60
 
 print(f'O JOGO DUROU {h} HORA(S) E {m} MINUTO(S)')
 '''
+
