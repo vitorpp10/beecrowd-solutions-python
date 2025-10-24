@@ -1,120 +1,129 @@
-<h1 align="center"> Python Projects — Phase 1</h1>
+<h1 align="center"> beecrowd Solutions — Python</h1>
 
 <p align="center">
-  A collection of <b>Python mini-projects</b> built during my Computer Science learning journey.<br>
-  From algorithms to small utilities — every line of code here represents progress. 🚀
+  Solutions and practice exercises for the algorithmic programming platform <strong>beecrowd (formerly URI)</strong>.<br>
+  Tracking my problem-solving progress as I level up through phases and sharpen algorithmic thinking.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Phase-1-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/beecrowd-URI-brightgreen?style=for-the-badge" alt="beecrowd" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Phase-Beginner-lightgrey?style=for-the-badge" alt="Phase" />
 </p>
 
 ---
 
-## Project Structure
+## Project Overview
 
-python-projects/
+This repository contains my solutions for various problems on **beecrowd (URI)**.  
+The main goal is to document the learning process and measure progress in algorithmic thinking using **Python**.
+
+---
+
+## Project Status and Goals
+
+| Category | Goal | Current Progress |
+|---|---:|:---:|
+| **Phase** | 🟩 *Beginner (1000–1050)* | **Completed (50/50 solved)** |
+| **Focus** | Input/Output, Variables, Data Types | Completed |
+| **Focus** | Conditional Structures (if/else) | Completed |
+| **Focus** | Loops (`while`, `for`) | Completed |
+| **Next Phase** | 🟨 *Intermediate (1051–1100)* | In Progress *(Start date: 2025-10-22)* |
+
+---
+
+## Next Phase: Intermediate (1051–1100)
+
+**Main focus:**
+
+- Mathematical operations and formulas  
+- Nested repetition and nested loops  
+- Flow control (`break`, `continue`, nested conditions)  
+- Lists / arrays and simple data structures  
+- Problems with multiple inputs (EOF handling)
+
+**Example folder structure:**
+
+beecrowd-solutions-python/
 │
-├── projects_phase_1/
-│ ├── mini-projects/
-│ │ ├── cpf_algorithm.py
-│ │ ├── cpf_generator.py
-│ │ ├── list_market.py
-│ │ └── mini_calculator.py
-│ │
-│ └── explanations/
+├── 04_repeticoes_while/
+│ ├── 1114_password.py
+│ ├── 1115_quadrant.py
+│ └── ...
+│
+├── 05_repeticoes_for/
+│ ├── 1070_even_numbers.py
+│ └── ...
+│
+├── 06_vetores_listas/
+│ ├── 1172_array_replacement_I.py
+│ └── ...
 │
 └── README.md
 
-yaml
-Copy code
+---
+
+## Showcase — Example Problems (selected)
+
+- **1000 - Hello World!** — Basic I/O and environment setup.  
+- **1071 - Sum Between Integers** — Looping and conditional counting.  
+- **1114 - Password** — Input handling and loop until correct input.  
+- **1172 - Array Replacement I** — Array/list traversal and conditionals.
+
+> Each file follows the naming convention `<problem_number>_<short_title>.py` for easy navigation.
 
 ---
 
-## Mini Projects Overview
+## Technologies & Tools
 
-### **CPF Algorithm**
-Implements the **CPF validation algorithm**, verifying if a Brazilian CPF number is valid.  
-This project helped me understand **loops, conditions, and modular arithmetic**.
-
----
-
-### **CPF Generator**
-Generates **valid CPF numbers** using the same algorithm as the validation script.  
-A great way to practice **functions, randomness**, and **input/output handling**.
-
----
-
-### **List Market**
-A **shopping list manager** that allows adding, removing, and displaying products interactively.  
-It simulates a simple shopping system and strengthened my knowledge of **lists, dictionaries**, and **user interaction**.
-
----
-
-### **Mini Calculator**
-A console calculator supporting addition (+), subtraction (-), multiplication (*), and division (/).  
-Focused on **input validation**, **conditionals**, and **arithmetic operations**.
-
----
-
-### **Multiplication Closure**
-Implements a multiplication table generator using a closure function, allowing the user to choose the number to multiply and the limit of multiplication.
-This project helped me understand closures, higher-order functions, input handling, and printing with delay for interactive console feedback.
-
-Uses a closure to store the multiplier and generate results dynamically.
-
-Demonstrates delayed printing (time.sleep) to create a visually appealing interactive experience.
-
-Strengthens knowledge of functions within functions and state retention in Python.
-
----
-
-## Future Improvements
-
-- Add a graphical interface using `tkinter` or `customtkinter`
-- Integrate database or file saving for persistent data
-- Organize new folders for advanced projects (e.g., `projects_phase_2`, `automation`, etc.)
-
-> ⚙️ *Phase 2 projects will combine **Python + SQL**, focusing on database integration and more advanced logic.*
-
----
-
-## Tech Stack
-
-| Category | Tools / Concepts |
-|-----------|------------------|
+| Category | Tools |
+|---|---|
 | **Language** | Python 3.x |
-| **IDE** | Visual Studio Code |
-| **Topics Covered** | Loops, Functions, Conditionals, Input/Output, Data Structures, Algorithms |
+| **Editor** | Visual Studio Code |
+| **Platform** | beecrowd (URI) |
+| **Version control** | Git / GitHub |
 
 ---
 
-## Goal
+## Roadmap Overview
 
-These mini-projects represent my **Phase 1 of learning Python** — a stage focused on logic, algorithms, and real-world problem-solving.  
-Each one is a step toward becoming a **proficient and creative Python developer**.
+| Phase | Problem Range | Focus |
+|---|---:|---|
+| **Beginner** | 1000–1050 | Syntax, I/O, conditionals, basic loops |
+| **Intermediate** | 1051–1150 | Lists, nested loops, more complex I/O |
+| **Advanced** | 1151–1200 | Functions, strings, math challenges |
+| **Applied** | 1201+ | Mixed and applied problems, optimizations |
 
 ---
 
-<p align="center"><i>“Every small project builds a big foundation.”</i></p>
+## How to Use
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/beecrowd-solutions-python.git
+
+2. Navigate to the problem folder and run a solution:
+   ```bash
+   python 04_repeticoes_while/1114_password.py
+
+3. Test locally using input redirection:
+   ```bash
+   python solution.py < sample_input.txt
 
 ---
 
 ## Connect
 
-This project is part of my **Computer Science learning journey**.  
-Feel free to connect and follow my progress!
+I update this README after each phase or milestone is completed.
+Solutions are written to match beecrowd I/O format and focused on readability and correctness.
 
 | Platform | Link |
 |-----------|------|
 | **LinkedIn** | [https://www.linkedin.com/in/vitor-de-padua/](https://www.linkedin.com/in/vitor-de-padua/) |
-| **Email** | [vitorprofissionalpp10@gmail.com](mailto:vitorprofissionalpp10@gmail.com) |
+| **Email** | vitorprofissionalpp10@gmail.com |
+| **beecrowd Profile** | [https://judge.beecrowd.com/en/profile/1188964](https://judge.beecrowd.com/en/profile/1188964) |
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with❤️_by-Vitor_de_Padua-blueviolet?style=for-the-badge" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Made_with_💙-Python-ff69b4?style=for-the-badge" alt="Made with Python" />
