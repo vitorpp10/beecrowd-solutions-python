@@ -60,6 +60,18 @@ Focused on **input validation**, **conditionals**, and **arithmetic operations**
 
 ---
 
+### **Multiplication Closure**
+Implements a multiplication table generator using a closure function, allowing the user to choose the number to multiply and the limit of multiplication.
+This project helped me understand closures, higher-order functions, input handling, and printing with delay for interactive console feedback.
+
+Uses a closure to store the multiplier and generate results dynamically.
+
+Demonstrates delayed printing (time.sleep) to create a visually appealing interactive experience.
+
+Strengthens knowledge of functions within functions and state retention in Python.
+
+---
+
 ## Future Improvements
 
 - Add a graphical interface using `tkinter` or `customtkinter`
