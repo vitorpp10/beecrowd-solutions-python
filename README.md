@@ -29,13 +29,27 @@ The main goal is to document the learning process and measure progress in algori
 | **Focus** | Input/Output, Variables, Data Types | Completed |
 | **Focus** | Conditional Structures (if/else) | Completed |
 | **Focus** | Loops (`while`, `for`) | Completed |
-| **Next Phase** | 🟨 *Intermediate (1051–1100)* | In Progress *(Start date: 2025-10-22)* |
+| **Next Phase** | 🟨 *Intermediate (1051–1100)* | In Progress (77/100) |
+
+---
+
+## Skills Learned
+
+- Functions, parameters, return values, scope, docstrings  
+- Imports and modules, file organization  
+- Iterators and generators (`iter()`, `next()`)  
+- Functional programming basics (`map`, `filter`, `reduce`)  
+- itertools: `zip`, `combinations`, `permutations`, `groupby`  
+- Decorators for logging and measuring execution  
+- Lists, dictionaries, sets, tuples; aggregation and counting  
+- Flow control: `if/elif/else`, loops, `break`, `continue`  
+- Input/output parsing and formatting  
 
 ---
 
 ## Next Phase: Intermediate (1051–1100)
 
-**Main focus:**
+**focus:**
 
 - Mathematical operations and formulas  
 - Nested repetition and nested loops  
