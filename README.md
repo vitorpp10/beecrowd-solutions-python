@@ -29,7 +29,7 @@ The main goal is to document the learning process and measure progress in algori
 | **Focus** | Input/Output, Variables, Data Types | Completed |
 | **Focus** | Conditional Structures (if/else) | Completed |
 | **Focus** | Loops (`while`, `for`) | Completed |
-| **Next Phase** | 🟨 *Intermediate (1051–1100)* | In Progress (77/100) |
+| **Next Phase** | 🟨 *Intermediate (1051–1100)* | In Progress (90/100) |
 
 ---
 
